@@ -4,12 +4,21 @@
     box-sizing: border-box;
 }
 
+ul {
+    list-style: none;
+}
+
 body {
     background-image: url(./image/bg.png);
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-color: #121214;
+}
+
+body * {
+    font-family: 'Inter', sans-serif;
+    line-height: 160%;
 }
 
 main * {
@@ -20,4 +29,14 @@ main {
     max-width: 580px;
     width: 90%;
     margin: auto;
+}
+
+section {
+    color: #fff;
+}
+
+section h2 {
+    font-weight: 900;
+    font-size: 24px;
+    letter-spacing: -0.47px;
 }
