@@ -6,7 +6,7 @@
 
 Front-end: HTML & CSS
 
-Deploy <a href="https://chimerical-kitsune-4a68a8.netlify.app/" target="_blank">Visualize a pagina aqui</a>
+> <a href="https://chimerical-kitsune-4a68a8.netlify.app/" target="_blank">Visualize a pagina aqui</a>
 
 <h2>Imagem de referência</h2>
 
