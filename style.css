@@ -191,6 +191,5 @@ section {
 }
 section ul {
     flex-wrap: nowrap;
-    gap: 0;
-   
+    gap: 0; 
 }
