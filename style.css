@@ -66,7 +66,7 @@ section {
 
 section div {
     background-color: #2A2634;
-    padding: 3.0rem;
+    padding: 2.3rem;
     padding-top: 2.4rem;
     border-radius: 8px;
 
@@ -193,3 +193,19 @@ section ul {
     flex-wrap: nowrap;
     gap: 0; 
 }
+
+/*.swiper-pagination1 {
+   width: 2px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 0;
+    background-color: transparent;
+}
+.swiper-pagination { 
+    width: 2px;
+    margin: 0;
+	padding: 0px;
+    background-color: transparent
+}
+*/
+
