@@ -29,11 +29,65 @@ Você pode visualizar o layout do projeto através 🔗 [desse link](https://lui
 - HTML
 - CSS
 
-> vale destarcar que fiz algumas atualizações do código para ficar com a minha identidade com essas tecnologia: 
+> Fiz modificaçoes com a minha identidade: 
 
 - Slides com JavaScript 
 - Luzes RGB com CSS
 
+```js
+ new Swiper(".m1Swiper", {
+    slidesPerView: 3,
+    loop: true,
+    spaceBetween: 10,
+    });
+ new Swiper(".m2Swiper", {
+      slidesPerView: 4,
+      loop: true,
+      spaceBetween: 10,
+      });
+```
+
+```CSS
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background: url(https://blog.rocketseat.com.br/content/images/2020/06/rocketseat_next_level_week.jpg);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+   
+  section {
+    width: 580px;
+    height: 300px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 12px;
+    background: linear-gradient(90deg, #9572FC, #43E7AD, #E2D45C, #9572FC);
+    animation: rgb 2s ease infinite;
+    background-size: 50% 10px;
+    animation-timing-function: linear;
+    background-repeat: repeat-x;  
+  }
+  
+  section div {
+    height: 100%;  
+    width: 100%;
+    border-radius: 0 0 10px 10px;
+    background: #ffffff20;
+    backdrop-filter: blur(10px);
+  }
+  
+   @keyframes rgb { 
+      0%{background-position:0% 0%}
+      100%{background-position:100% 0%}
+  }
+```
 #
 
 ### 💻 Projeto
