@@ -34,6 +34,8 @@ Você pode visualizar o layout do projeto através 🔗 [desse link](https://lui
 - Slides com JavaScript 
 - Luzes RGB com CSS
 
+
+***JavaScript***
 ```js
  new Swiper(".m1Swiper", {
     slidesPerView: 3,
@@ -46,7 +48,7 @@ Você pode visualizar o layout do projeto através 🔗 [desse link](https://lui
       spaceBetween: 10,
       });
 ```
-
+***CSS***
 ```CSS
 * {
     margin: 0;
