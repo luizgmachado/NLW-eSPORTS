@@ -16,7 +16,7 @@
 
 ### 🔖 Layout
 
-Você pode visualizar o layout do projeto através 🔗 [desse link](https://luiz-gustavo-machado.github.io/NLW-eSPORTS/).
+Você pode visualizar o layout do projeto através 🔗 [desse link](https://chimerical-kitsune-4a68a8.netlify.app/).
 
 ![image](https://user-images.githubusercontent.com/108701750/190295166-6f0144e2-84fd-4c8c-87cc-a15450d54e85.png)
 
