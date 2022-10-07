@@ -59,7 +59,7 @@ main {
 
 section {
     color: #fff;
-    -webkit-background-image: linear-gradient(118deg, #9572fc, #43E7AD, #E2D45C, #9572fc, #43E7AD, #E2D45C);
+    background-image: linear-gradient(118deg, #9572fc, #43E7AD, #E2D45C, #9572fc, #43E7AD, #E2D45C);
     padding-top: 4px;
     border-radius: 10px;
 }
