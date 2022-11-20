@@ -28,6 +28,7 @@ Você pode visualizar o layout do projeto através 🔗 [desse link](https://chi
 
 - HTML
 - CSS
+- JavaScript 
 
 > Fiz modificaçoes com a minha identidade: 
 
