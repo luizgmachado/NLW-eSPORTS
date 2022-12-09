@@ -16,7 +16,10 @@
 
 ### 🔖 Layout
 
-Você pode visualizar o layout do projeto através 🔗 [desse link](https://chimerical-kitsune-4a68a8.netlify.app/).
+- Projeto disponível no 🔗 [Deploy](https://chimerical-kitsune-4a68a8.netlify.app). 
+
+- Figma do projeto disponível no 🔗 [Figma](https://www.figma.com/file/dUlDOXSsSd3kTECFxZaBN1/NLW-eSports---Desafio-Extra-(Copy)?node-id=6%3A131&t=vp76gtgW5fPstpcG-0)
+
 
 ![image](https://user-images.githubusercontent.com/108701750/190295166-6f0144e2-84fd-4c8c-87cc-a15450d54e85.png)
 
